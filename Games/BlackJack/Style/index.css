@@ -1,0 +1,36 @@
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 10px;
+  background-image: url("https://assets.playtech.com/application/files/1315/9195/2474/2020_06_gvc_majority_rules_pr_pic.jpg?version=1624264928");
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  color: white;
+}
+
+button {
+  background-color: #2a2b2b;
+  font-weight: bold;
+  color: white;
+  border: 1px solid black;
+  padding: 10px 10px;
+  border-radius: 25px;
+}
+.container {
+  background-color: transparent;
+}
+
+#start-btn {
+  margin: 0 auto;
+}
