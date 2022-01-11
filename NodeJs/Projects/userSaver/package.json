@@ -1,0 +1,17 @@
+{
+  "name": "usersaver",
+  "version": "1.0.0",
+  "description": "UserSaver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "es": "^0.8.0",
+    "express": "^4.17.1",
+    "html": "^1.0.0"
+  }
+}
