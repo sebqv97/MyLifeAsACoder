@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 100%;
+}
+
+body {
+  height: 75%;
+}
+
+.current-word {
+  background-color: grey;
+}
+.wrong-word {
+  background-color: red;
+}
+
+.container {
+  height: 100%;
+}
+
+.game {
+  height: 100%;
+  text-align: center;
+  margin: 4rem;
+}
